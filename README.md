@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ksodoo
-- 🌱 I’m currently learning ROS
+- 🌱 I’m currently learning about Robotic arms
 
 <!---
 ksodoo/ksodoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
